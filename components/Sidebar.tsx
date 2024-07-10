@@ -17,9 +17,9 @@ const Sidebar = () => {
         src="https://sumitdey.netlify.app/static/media/max.9d3a6d3e.jpg"
         alt="avatar"
         className=" mx-auto border rounded-full "
-        height="128px"
-        width="128px"
-        layout="intrinsic"
+        height={128}
+        width={128}
+        
         quality="100"
       />
       <h3 className="my-4 text-3xl font-medium tracking-wider font-kaushan">
@@ -40,7 +40,7 @@ const Sidebar = () => {
 
       {/* Socials */}
       <div className="flex justify-around w-9/12 mx-auto my-5 text-green md:w-full ">
-        <a href="https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A">
+        <a href="https://www.youtube.com/channel/UClW8d1f5m0QAE_Ig024EP6A" >
           <AiFillYoutube className="w-8 h-8 cursor-pointer" />
         </a>
         <a href="https://www.linkedin.com/in/sumit-dey-4a04431a9/" >
