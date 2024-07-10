@@ -26,7 +26,7 @@ const Sidebar = () => {
         <span className="text-green ">Sumit</span> Dey
       </h3>
       <p className="px-2 py-1 my-3 bg-gray-200 rounded-full dark:bg-dark-200 dark:bg-black-500">
-        Web Developer
+        Desenvolvedor
       </p>
       {/* Resume */}
       <a
