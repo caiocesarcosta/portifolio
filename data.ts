@@ -9,38 +9,21 @@ import { BsCircleFill } from "react-icons/bs";
 export const services: Service[] = [
   {
     Icon: RiComputerLine,
-    title: "Frontend Development",
+    title: "Frontend App Android",
     about:
-      "I can build a beautiful and scalable SPA using <b> HTML</b>,<b>CSS</b>   and <b>React.js</b> ",
+      "Desenvolvendo app de controle corporal (Bioimpedância) em <b> Kotlin</b>. Utilizando  arquitetura escalável <b>MVVMi</b> ",
   },
   {
     Icon: FaServer,
-    title: "Backend  Development",
+    title: "IA",
     about:
-      "handle database, server, api using <b>Express </b> & other popular frameworks",
+      "Utilizando as IA's para melhor performance e customização do tempo de desenvolvimento ",
   },
   {
     Icon: AiOutlineApi,
-    title: "API Development",
+    title: "API",
     about:
-      "I can develop robust  REST API using <b>django-rest-api</b>  & <b>Node API</b> ",
-  },
-  {
-    Icon: MdDeveloperMode,
-    title: "Competitive Coder",
-    about: "a daily problem solver in <b>HackerRank</b>  and <b>Leet Code</b> ",
-  },
-  {
-    Icon: AiOutlineAntDesign,
-    title: "UI/UX designer",
-    about:
-      "stunning user interface designer using <b>Figma</b>  and  <b>Framer</b> ",
-  },
-  {
-    Icon: RiComputerLine,
-    title: "Whatever",
-    about:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis minima autem!",
+      "Utilizando  Api Rest <b>Retrofit</b>  & <b>Node API</b> ",
   },
 ];
 
@@ -159,7 +142,7 @@ export const projects: IProject[] = [
     image_path: "/images/itau.png",
     deployed_url: "https://www.itau.com.br/canais-itau/aplicativo-itau",
     // github_url: "https://github.com/Dey-Sumit/covid-19-tracker",
-    category: ["react"],
+    category: ["java", "kotlin"],
     key_techs: ["Java", "Kotlin", "Retrofit 2", "MVVM|MVP","Coroutines","LiveData","Observer","Koin","GitHub","Junit","Mokito", "Firebase",],
   },
   {
@@ -167,7 +150,7 @@ export const projects: IProject[] = [
     image_path: "/images/flex-automation.png",
     deployed_url: "https://www.flexautomation.com.br/produtos",
     // github_url: "https://github.com/Dey-Sumit/algorithm-visualizer",
-    category: ["react"],
+    category: ["java", "kotlin"],
     description:
       "Empresa automação residencial. Onde contrbuí no desenvolvimento de um app de configuração e controle da valvula smart e Também no desenvolvimento do aplicativo Desktop o qual fazia o gerenciamento e configuração dos dispositivos smart (sensores, painéis touch)",
     key_techs: ["Java", "Kotlin", "MVP", "C#", ".NET","Dagger 2", "MongoDb", "GitHub", "BlueToth","WiFi" ],
@@ -177,7 +160,7 @@ export const projects: IProject[] = [
     image_path: "/images/audit-business.jpg",
     deployed_url: "https://www.auditbs.com.br/",
     // github_url: "https://github.com/Dey-Sumit/algorithm-visualizer",
-    category: ["react"],
+    category: ["java"],
     description:
       "Empresa que atua no mercado de desenvolvimento de sistema para auditoria de lojas. Onde contribui com o desenvolvimento do app ControlQuest( Ferramenta de questionários online para saber as opiniões dos consulmidores que utilizam o Mall e o consumo nas loja)",
     key_techs: ["Java","SQLITE", "MVC" ],
@@ -187,7 +170,7 @@ export const projects: IProject[] = [
     image_path: "/images/cobol.png",
     deployed_url: "https://visual-algorithm.web.app/",
     // github_url: "https://github.com/Dey-Sumit/algorithm-visualizer",
-    category: ["react"],
+    category: ["cobol"],
     description:
       "Empresa bancária. onde colaboreis na codificação em COBOl ",
     key_techs: ["COBOL","DB2"],
