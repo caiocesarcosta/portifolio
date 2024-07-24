@@ -174,8 +174,5 @@ export const projects: IProject[] = [
     github_url: "https://github.com/Dey-Sumit/youtube-clone-tutorial-up",
     category: ["cobol"],
     key_techs: ["COBOL","DB2"],
-  },
-  
-
-  
+  }
 ];
