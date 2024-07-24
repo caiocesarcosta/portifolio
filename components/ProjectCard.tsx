@@ -10,11 +10,11 @@ const ProjectCard: FunctionComponent<{
 }> = ({
   project: {
     name,
-    image_path,
-    category,
-    deployed_url,
     description,
+    image_path,
+    deployed_url,
     github_url,
+    category,
     key_techs,
   },
   
