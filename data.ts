@@ -141,7 +141,6 @@ export const projects: IProject[] = [
       "Empresa bancário, onde colaborei no app SuperApp e Cartão Branco hojé conhecido como Itaú One.  Estive em várias squads como: Cartões, Aumento de Limite, Analytics, Produtos e Empréstimos, programa de pontos Iupp",
     image_path: "/images/itau.png",
     deployed_url: "https://www.itau.com.br/canais-itau/aplicativo-itau",
-    // github_url: "https://github.com/Dey-Sumit/covid-19-tracker",
     category: ["java", "kotlin"],
     key_techs: ["Java", "Kotlin", "Retrofit 2", "MVVM|MVP","Coroutines","LiveData","Observer","Koin","GitHub","Junit","Mokito", "Firebase",],
   },
@@ -149,7 +148,6 @@ export const projects: IProject[] = [
     name: "Flex Automation",
     image_path: "/images/flex-automation.png",
     deployed_url: "https://www.flexautomation.com.br/produtos",
-    // github_url: "https://github.com/Dey-Sumit/algorithm-visualizer",
     category: ["java", "kotlin"],
     description:
       "Empresa automação residencial. Onde contrbuí no desenvolvimento de um app de configuração e controle da valvula smart e Também no desenvolvimento do aplicativo Desktop o qual fazia o gerenciamento e configuração dos dispositivos smart (sensores, painéis touch)",
@@ -159,7 +157,6 @@ export const projects: IProject[] = [
     name: "Audit Business",
     image_path: "/images/audit-business.jpg",
     deployed_url: "https://www.auditbs.com.br/",
-    // github_url: "https://github.com/Dey-Sumit/algorithm-visualizer",
     category: ["java"],
     description:
       "Empresa que atua no mercado de desenvolvimento de sistema para auditoria de lojas. Onde contribui com o desenvolvimento do app ControlQuest( Ferramenta de questionários online para saber as opiniões dos consulmidores que utilizam o Mall e o consumo nas loja)",
@@ -169,7 +166,6 @@ export const projects: IProject[] = [
     name: "Itau Baixa Plataforma - COBOL",
     image_path: "/images/cobol.png",
     deployed_url: "https://visual-algorithm.web.app/",
-    // github_url: "https://github.com/Dey-Sumit/algorithm-visualizer",
     category: ["cobol"],
     description:
       "Empresa bancária. onde colaboreis na codificação em COBOl ",
