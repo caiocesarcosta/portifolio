@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "nvm use 20.16.0",
     "start": "next start"
   },
   "dependencies": {
