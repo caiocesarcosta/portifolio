@@ -171,7 +171,7 @@ export const projects: IProject[] = [
     description:
     "Empresa bancária. onde colaborei na codificação em COBOl ",
     image_path: "/images/cobol.png",
-    deployed_url: "https://visual-algorithm.web.app/",
+    deployed_url: "https://www.itau.com.br/canais-itau/aplicativo-itau",
     github_url: "",
     category: ["cobol"],
     key_techs: ["COBOL","DB2"],
