@@ -15,10 +15,10 @@ const About: NextPage = () => {
   return (
     <div className="flex flex-col flex-grow px-6 pt-1 ">
       <h6 className="my-3 text-base font-medium">
-       Desenvolvedor Android mais de 8 anos, formado em Ciência da Computação (UNIFEI),
-       focado em criar apps inovadores. Experiência em projetos de grande escala (SuperApp Itaú).
-       Utilizo boas práticas de desenvolvimento e arquitetura de software, buscando aprimorar minhas habilidades.
-       Valorizo o trabalho em equipe e a comunicação transparente. Apaixonado por tecnologia, busco novos desafios.
+       Desenvolvedor Android há mais de 8 anos, formado em Ciência da Computação (UNIFEI) em 2010,
+       focado em criar apps inovadores. Experiência em projetos de grande escala.
+       Utilizo boas práticas de desenvolvimento e arquitetura de software, buscando sempre aprimorar minhas habilidades.
+       Valorizo o trabalho em equipe e a comunicação transparente. Apaixonado por tecnologia e busco novos desafios.
       </h6>
       <div
         className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100 "

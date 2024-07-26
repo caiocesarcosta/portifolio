@@ -53,12 +53,12 @@ const ProjectCard: FunctionComponent<{
               width="300"
             />
             <div className="flex justify-center my-4 space-x-3">
-              <a
+              {/* <a
                 href={github_url}
                 className="flex items-center px-4 py-2 space-x-3 text-lg bg-gray-200 dark:bg-dark-200"
               >
                 <AiFillGithub /> <span>Github</span>
-              </a>
+              </a> */}
               <a
                 href={deployed_url}
                 className="flex items-center px-4 py-2 space-x-3 text-lg bg-gray-200 dark:bg-dark-200"
