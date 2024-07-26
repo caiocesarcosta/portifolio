@@ -1,5 +1,12 @@
 module.exports = {
   images: {
-    domains: ["caiocesarcosta.vercel.app"],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'caiocesarcosta.vercel.app',
+        port: '', 
+        pathname: '/images/**', 
+      },
+    ],
   },
 };
