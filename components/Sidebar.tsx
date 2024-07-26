@@ -31,7 +31,7 @@ const Sidebar = () => {
       </p>
       {/* baixar curriculo */}
       <a
-       href="public\cv_caiocesarcosta_26072024.pdf"
+       href="public/cv_caiocesarcosta_26072024.pdf"
         download="cv_caiocesarcosta_26072024.pdf"
         className="flex items-center justify-center px-2 py-1 my-2 bg-gray-200 rounded-full cursor-pointer dark:bg-dark-200 dark:bg-black-500"
       >
