@@ -175,5 +175,6 @@ export const projects: IProject[] = [
     github_url: "",
     category: ["cobol"],
     key_techs: ["COBOL","DB2"],
+    
   }
 ];
