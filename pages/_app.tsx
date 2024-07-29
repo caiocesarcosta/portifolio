@@ -2,6 +2,8 @@ import Navbar from "../components/Navbar";
 import Sidebar from "../components/Sidebar";
 import "../styles/globals.css";
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from "@vercel/speed-insights/next"
+
 
 
 import { ThemeProvider } from "next-themes";
@@ -24,6 +26,7 @@ function MyApp({ Component, pageProps }) {
         </div>
       </div>
       <Analytics /> {/* Adicione o Analytics aqui */}
+      <SpeedInsights />
     </ThemeProvider>
   );
 }
