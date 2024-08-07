@@ -7,7 +7,7 @@ import {
 } from "next";
 import ServiceCard from "../components/ServiceCard";
 import { services } from "../data";
-import { Service } from ".../types/custom-types";
+import { Service } from "../types/custom-types";
 
 const About: NextPage = () => {
   // console.log(services);
