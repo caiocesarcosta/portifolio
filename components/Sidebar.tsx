@@ -4,6 +4,7 @@ import { GoLocation } from "react-icons/go";
 import { useTheme } from "next-themes";
 import Image from "next/image";
 import Link from 'next/link';
+import React from 'react';
 
 const Sidebar = () => {
   const { theme, setTheme } = useTheme();
