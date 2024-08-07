@@ -33,10 +33,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   );
 }
 
-<<<<<<< HEAD
-export default MyApp;
-
-=======
 
 export default MyApp;
->>>>>>> develop
+
+
