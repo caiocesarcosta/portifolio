@@ -1,7 +1,7 @@
 import { FunctionComponent, useState } from "react";
 import { AiFillGithub, AiFillProject } from "react-icons/ai";
 import { MdClose } from "react-icons/md";
-import { IProject } from ".../types/custom-types";
+import { IProject } from "../types/custom-types";
 
 import Image from "next/image";
 
